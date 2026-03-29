@@ -11,15 +11,16 @@
 <p align="center">
   <img
     src="https://github-readme-stats.shion.dev/api?username=ckd0817&show_icons=true&hide_border=true"
-    height="170"
+    height="270"
   />
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=ckd0817&layout=compact&langs_count=6&hide_border=true"
-    height="170"
+    height="270"
   />
+ 
 </p>
 
-
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ckd0817&theme=github-compact)
 ## About
 
 - Research focus: **Large Language Models (LLM)**
