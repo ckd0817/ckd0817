@@ -20,7 +20,6 @@
  
 </p>
 
- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ckd0817&theme=github-compact)
 ## About
 
 - Research focus: **Large Language Models (LLM)**
